@@ -1,5 +1,5 @@
 <?php
-echo "Pozdravljam sve ljude na svettu";
+echo "Pozdravljam sve ljude na sssvettu"; 
 
 
 ?>
